@@ -6,6 +6,8 @@ I'm a Portuguese/American full-stack software developer interested in building s
 and maintable software that solves problems. 
 
 ---
+## Langagues
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Nate1729)
 ## Language and Tools
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
