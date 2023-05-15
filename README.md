@@ -16,9 +16,10 @@ and maintable software that solves problems.
 ## Tooling
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/Nate1729)
 
-## Framework
+## Frameworks
 [![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/Nate1729)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/Nate1729)
+[![FastAPI](https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi)](https://github.com/Nate1729)
 
 
 <!--
