@@ -13,13 +13,15 @@ and maintable software that solves problems.
 [![Javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Nate1729)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/Nate1729)
 
-## Tooling
-[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/Nate1729)
+## Technologies 
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://www.docker.com)
+[![Postgresql](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
+
 
 ## Frameworks
-[![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/Nate1729)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/Nate1729)
-[![FastAPI](https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi)](https://github.com/Nate1729)
+[![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com/)
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://react.dev)
+[![FastAPI](https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
 
 
 <!--
