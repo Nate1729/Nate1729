@@ -1,4 +1,11 @@
-### Hi there 👋
+# 🦀 Nate1729
+
+`Academic Craftsman (Developer/Carpenter/Mathematician)`
+
+I'm a Portuguese/American full-stack software developer interested in building safe, scalable,
+and maintable software that solves problems. 
+
+
 
 <!--
 **Nate1729/Nate1729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
