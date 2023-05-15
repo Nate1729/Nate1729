@@ -24,6 +24,10 @@ and maintable software that solves problems.
 [![FastAPI](https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
 
 
+## Stats
+
+![Nate1729's GitHub stats](https://github-readme-stats.vercel.app/api?username=nate1729&show_icons=true&theme=gruvbox)
+
 <!--
 **Nate1729/Nate1729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
