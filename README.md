@@ -1,11 +1,17 @@
 # 🦀 Nate1729
 
-`Academic Craftsman (Developer/Carpenter/Mathematician)`
+`Academic Craftsman (Developer/Mathematician)`
 
 I'm a Portuguese/American full-stack software developer interested in building safe, scalable,
 and maintable software that solves problems. 
 
+---
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
 
+# Language and Tools
 
 <!--
 **Nate1729/Nate1729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
