@@ -3,7 +3,7 @@
 `Academic Developer (Developer/Mathematician)`
 
 I'm a Portuguese/American full-stack software developer interested in building safe, scalable,
-and maintable software that solves problems. 
+and maintable software. 
 
 ---
 ## Langagues
